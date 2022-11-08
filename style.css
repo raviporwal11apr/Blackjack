@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(127, 200, 17);
+    margin-top: 50px;
+    font-family: calibri;
+    text-align: center;
+}
+#theme{
+    margin-bottom: 25px;
+    font-size: 125px;
+    font-weight: bolder;
+    color: rgb(83, 60, 60);
+}
+#option{
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+#card{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+#sum{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+#startGame{
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 300px;
+    background-color: rgb(242, 133, 60);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 30px;
+    font-weight: light;
+}
+#newCard{
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 300px;
+    background-color: rgb(80, 169, 241);
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 30px;
+    font-weight: light;
+}
